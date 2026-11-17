@@ -3,7 +3,7 @@ name = "SigmaOS-file-associations"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "file-associations component"
+description = "MIME type registry and file association manager"
 upstream = []
 
 [contract]
