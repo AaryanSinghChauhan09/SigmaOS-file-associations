@@ -1,0 +1,15 @@
+[package]
+name = "SigmaOS-file-associations"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS file_associations component"
+
+[lib]
+name = "file_associations"
+path = "src/lib.rs"
+
+[dependencies]
+thiserror = "1"
+
+[dev-dependencies]
